@@ -1,0 +1,7 @@
+jwtTokenSecret: 'dfwzsdzwh823zebdwdz772632gdsbddfwzsdzwh823zebdwdz772632gdsbd'
+
+logging:
+  level: INFO
+  loggers:
+    com.zencom: DEBUG
+
