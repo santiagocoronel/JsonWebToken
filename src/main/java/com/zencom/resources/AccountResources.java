@@ -114,6 +114,6 @@ public class AccountResources {
     public Response getDataUser(@Auth Principal user) {
         System.out.println(user.toString());
         return Response.ok().entity(user).build();
-    }
+}
 
 }
